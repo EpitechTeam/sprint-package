@@ -8,7 +8,7 @@ Sprint-package vous permet de générer des bases d'applications du type
 
 ## Docker-compose
 
-'''sh
+```sh
 $ docker-compose build
 $ docker-compose up
-'''
+```
