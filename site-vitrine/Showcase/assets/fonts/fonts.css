@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Dolce Vita Heavy';
+    src: url('./Dolce-Vita-Heavy-Bold.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto light';
+    src: url('./Roboto-Light.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto medium';
+    src: url('./Roboto-Medium.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto bold';
+    src: url('./Roboto-Bold.ttf')  format('truetype');
+}
