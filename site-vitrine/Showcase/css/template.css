@@ -1,0 +1,140 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto light", serif;
+}
+
+h1 {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.font-light {
+    font-family: "Roboto light", serif;
+}
+
+.font-medium {
+    font-family: "Roboto medium", serif;
+}
+
+.font-bold {
+    font-family: "Roboto bold", serif;
+}
+
+.font-title {
+    text-align: center;
+    padding: 50px 0;
+    font-family: "Dolce Vita Heavy", serif;
+}
+
+.text-centered {
+    text-align: center;
+}
+
+.size-12 {
+    font-size: 12px;
+}
+
+.size-14 {
+    font-size: 14px;
+}
+
+.size-16 {
+    font-size: 16px;
+}
+
+.size-26 {
+    font-size: 26px;
+}
+
+.size-28 {
+    font-size: 28px;
+}
+
+.size-32 {
+    font-size: 32px;
+}
+
+.flex-main {
+    display: flex;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.flex-centered {
+    justify-content: center;
+    align-items: center;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.space-around {
+    justify-content: space-around;
+}
+
+.flex-end {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn-main {
+    display: inline-flex;
+}
+
+.col-80 {
+    width: 80%;
+}
+
+.col-60 {
+    width: 60%;
+}
+
+.col-400 {
+    width: 400px;
+}
+
+.main-btn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 7px 20px;
+    background-color: var(--secondary-color);
+    font-family: "Roboto bold", serif;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+.main-btn:hover {
+    transform: scale(0.97);
+}
+
+.article {
+    padding: 70px;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.item {
+    padding: 50px;
+}
